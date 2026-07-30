@@ -31,10 +31,9 @@
 **♦️Vision-Based Mobile Robotic Arm (Vision Bot)**
 Built a mobile robotic arm integrated with:
 
--Line following robot
--ESP32-CAM vision system
--Object detection
--Pick and place operations
+- ESP32-CAM vision system
+- Object detection
+- Pick and place operations
 
 **Technologies Used**
 Computer Vision, Embedded Systems, Robotics
@@ -43,23 +42,23 @@ Computer Vision, Embedded Systems, Robotics
 **♦️Line & Maze Following Robot**
 Designed an autonomous robot capable of:
 
--Line following
--Maze navigation
--Obstacle detection
--Autonomous path tracking
+- Line following
+- Maze navigation
+- Obstacle detection
+- Autonomous path tracking
 
 **♦️Home Automation**
--Built a voice-controlled appliance switching system using relay modules and smart-home integration.
--Enabled remote on/off control of household appliances through voice and switch commands.
+- Built a voice-controlled appliance switching system using relay modules and smart-home integration.
+- Enabled remote on/off control of household appliances through voice and switch commands.
 
 Relay Module, NodeMCU, Alexa / Google Home
 
 
 **📈 Current Goals**
--Learning Advanced Robotics
--Building AI Integrated Robots
--Improving Embedded System Design
--Exploring ROS & Autonomous Systems
+- Learning Advanced Robotics
+- Building AI Integrated Robots
+- Improving Embedded System Design
+- Exploring ROS & Autonomous Systems
 
 
 
